@@ -18,8 +18,8 @@ public class MainPage extends Page {
 	private WebElement eButtonEnter;
 	
 	private final String URL = "http://www.quizful.net/LoginAction.loginForm";
-	private final String LOGIN = "kryshe4ka";
-	private final String PASSWORD = "liza30011994";
+	private final String LOGIN = "login";
+	private final String PASSWORD = "password";
 	
 	public MainPage(WebDriver driver) {
 		super(driver);
